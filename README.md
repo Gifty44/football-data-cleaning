@@ -1,7 +1,5 @@
 # football-data-cleaning
 
-Fifa Cleaning Documentation
-
 Working on the Fifa dataset containing players details to find irregularities to be cleaned in order to prepare the dataset for analysis. Excel was used in carrying out the cleaning process . The following are the irregularities found in the data;
 
 * Inconsistent format for the columns names 
