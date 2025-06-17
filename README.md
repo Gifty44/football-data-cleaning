@@ -8,7 +8,7 @@ Working on the Fifa dataset containing players details to find irregularities to
 * Inconsistent measurement units in column
 *  Wrong capitalization
 * Special characters
-* Irrelevant column
+* Irrelevant column \
 The following cleaning processes were carried out to ensure the data was clean to work with;
 Step 1:
 Some columns were having inconsistent naming format just like, Short Passing and some were abbreviated like BOV. Some columns abbreviated were spelt in full names and the naming format was changed to have one type, which is using an underscore to join both words, like, Short_Passing .
